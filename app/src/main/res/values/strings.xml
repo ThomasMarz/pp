@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">pp</string>
+    <string name="button_send">Send</string>
+    <string name="editText_in">Enter Something</string>
 </resources>
