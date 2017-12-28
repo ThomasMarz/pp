@@ -2,4 +2,6 @@
     <string name="app_name">pp</string>
     <string name="button_send">Send</string>
     <string name="editText_in">Enter Something</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_settings">Settings</string>
 </resources>

@@ -1,4 +1,4 @@
-# Day 1
+# 28.12.2017
 
 * Done the [Build your first app](https://developer.android.com/training/basics/firstapp/index.html) training
 
@@ -17,3 +17,10 @@
   * create the project via the studio wizards
   * then enable git for the project via _VCS > Import Into Version Control > Create GIT Repository_
   * enable remotes via _VCS > GIT > Remotes ..._
+
+* Done the [App Bar Training](https://developer.android.com/training/appbar/index.html)
+  * ActionBar is the native app but for compat. reason you work with the toolbar of the v7 support lib
+
+* Done the [Snackbar Training]()
+  * First encounter with the [Support Library Packages](https://developer.android.com/topic/libraries/support-library/packages.html#design)
+  * The designer tools showed only blank screen after switching to the CoordinatorLayout => solution: switch to Pixel XL device (WTF?)
