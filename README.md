@@ -20,12 +20,12 @@
 
 * Done the [App Bar Training](https://developer.android.com/training/appbar/index.html)
   * ActionBar is the native app but for compat. reason you work with the toolbar of the v7 support lib
-  * https://github.com/ThomasMarz/pp/commit/44c28333608b2d016e8c978cf81a291b8f257af5
+  * [commmit](https://github.com/ThomasMarz/pp/commit/44c28333608b2d016e8c978cf81a291b8f257af5)
 
 * Done the [Snackbar Training]()
   * First encounter with the [Support Library Packages](https://developer.android.com/topic/libraries/support-library/packages.html#design)
   * The designer tools showed only blank screen after switching to the CoordinatorLayout => solution: switch to Pixel XL device (WTF?)
-  * https://github.com/ThomasMarz/pp/commit/44c28333608b2d016e8c978cf81a291b8f257af5
+  * [commmit](https://github.com/ThomasMarz/pp/commit/44c28333608b2d016e8c978cf81a291b8f257af5)
 
 
 
@@ -41,4 +41,4 @@
 
 * Build a list with a custom list item
   * along [this tutorial](http://www.ezzylearning.com/tutorial/customizing-android-listview-items-with-custom-arrayadapter)
-  * commit:
+  * [commmit](https://github.com/ThomasMarz/pp/commit/08e9aaa0cf83bdbdc5f941376a6e6cea3e3d7c54)
